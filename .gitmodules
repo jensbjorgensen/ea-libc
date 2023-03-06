@@ -3,13 +3,13 @@
 	url = https://github.com/embeddedartistry/gdtoa
 [submodule "meson-buildsystem"]
 	path = build
-	url = https://github.com/embeddedartistry/meson-buildsystem
+	url = https://github.com/jensbjorgensen/ea-meson-buildsystem
 [submodule "printf"]
 	path = printf
 	url = https://github.com/embeddedartistry/printf
 [submodule "openlibm"]
 	path = openlibm
-	url = https://github.com/embeddedartistry/openlibm
+	url = https://github.com/jensbjorgensen/ea-openlibm
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/embeddedartistry/cmake-buildsystem

@@ -1,0 +1,6 @@
+#ifndef __WASM_MACHINE_ENDIAN_H_
+#define __WASM_MACHINE_ENDIAN_H_
+
+#define __BYTE_ORDER __LITTLE_ENDIAN
+
+#endif //__WASM_MACHINE_ENDIAN_H_
