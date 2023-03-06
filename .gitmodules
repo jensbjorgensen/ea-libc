@@ -1,6 +1,6 @@
 [submodule "src/gdtoa"]
 	path = src/gdtoa
-	url = https://github.com/embeddedartistry/gdtoa
+	url = https://github.com/jensbjorgensen/ea-gdtoa
 [submodule "meson-buildsystem"]
 	path = build
 	url = https://github.com/jensbjorgensen/ea-meson-buildsystem
