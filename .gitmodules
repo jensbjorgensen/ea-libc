@@ -4,6 +4,7 @@
 [submodule "meson-buildsystem"]
 	path = build
 	url = https://github.com/jensbjorgensen/ea-meson-buildsystem
+	branch = main
 [submodule "printf"]
 	path = printf
 	url = https://github.com/embeddedartistry/printf
