@@ -11,6 +11,7 @@
 [submodule "openlibm"]
 	path = openlibm
 	url = https://github.com/jensbjorgensen/ea-openlibm
+	branch = master
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/embeddedartistry/cmake-buildsystem

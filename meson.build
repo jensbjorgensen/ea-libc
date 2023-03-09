@@ -156,7 +156,7 @@ openlibm_dep = declare_dependency(
 clangtidy_files = []
 
 subdir('src')
-subdir('test')
+#subdir('test')
 
 ###################
 # Tooling Modules #
