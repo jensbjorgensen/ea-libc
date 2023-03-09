@@ -1,6 +1,8 @@
 #ifndef STDIO_H__
 #define STDIO_H__
 
+#define PRINTF_ALIAS_STANDARD_FUNCTION_NAMES 1
+#define PRINTF_INCLUDE_CONFIG_H 0
 #include <printf/printf.h>
 #include <stdarg.h>
 #include <stddef.h>
